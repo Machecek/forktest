@@ -13,7 +13,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<rootclass name="GITHUBScript" act="car" reportMemoryLOD="no" /> <!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
 	</classes>
 	<defaults>
-		<default name="dyn_radius" value="30" />
+		<default name="dyn_radiusaaa" value="30" />
 		<default name="dyn_smin" value="0" />
 		<default name="dyn_smax" value="0" />
 		<default name="dyn_dmin" value="1" />
